@@ -9,7 +9,7 @@ import android.widget.TextView;
  * @author Agam Toledano
  * @version 1.0
  * @since 26/11/2021
- * Short description - Credits screen
+ * Short description - Credits screen.
  */
 
 public class CreditActivity extends AppCompatActivity {
@@ -26,7 +26,7 @@ public class CreditActivity extends AppCompatActivity {
 
     /**
      * Button:
-     * Short description - Go To Activity_Main
+     * Short description - Go To Activity_Main.
      *
      * <p>
      *

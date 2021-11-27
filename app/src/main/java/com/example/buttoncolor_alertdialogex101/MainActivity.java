@@ -33,8 +33,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * OptionMenu - Create
-     * Short descriptions - Creation of OptionMenu
+     * OptionMenu:
+     * Short description - Creation of OptionMenu.
      * @param menu
      * @return super.onCreateOptionsMenu(menu)
      */
@@ -45,8 +45,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * OptionMenu - Create
-     * Short descriptions - Activating the OptionMenu
+     * OptionMenu:
+     * Short description - Activating the OptionMenu.
      * @param item
      * @return super.onOptionsItemSelected(item)
      */
@@ -58,8 +58,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Button1:
-     * Short description - Alert Dialog (Message)
+     * Button:
+     * Short description - Alert Dialog (Message).
      * <p>
      *
      * @param view
@@ -77,8 +77,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Button2:
-     * Short description - Alert Dialog (Message + Drawing)
+     * Button:
+     * Short description - Alert Dialog (Message + Drawing).
      * <p>
      *
      * @param view
@@ -96,8 +96,8 @@ public class MainActivity extends AppCompatActivity {
         ad.show();
     }
     /**
-     * Button3:
-     * Short description - Alert Dialog (Message + Drawing + 1 Button)
+     * Button:
+     * Short description - Alert Dialog (Message + Drawing + 1 Button).
      * <p>
      *
      * @param view
@@ -123,8 +123,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Button4:
-     * Short description - Alert Dialog (Message + 2 Buttons)
+     * Button:
+     * Short description - Alert Dialog (Message + 2 Buttons).
      * <p>
      *
      * @param view
@@ -156,8 +156,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Button5:
-     * Short description - Alert Dialog (Message + 3 Buttons)
+     * Button:
+     * Short description - Alert Dialog (Message + 3 Buttons).
      * <p>
      *
      * @param view
@@ -195,7 +195,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * int randomColor:
-     * Short description - Color lottery
+     * Short description - Color lottery.
      * <p>
      *
      * @return color
